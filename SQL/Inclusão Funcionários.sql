@@ -1,0 +1,11 @@
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1962-10-15", "João José", "Casado", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1977-02-03", "Maria da Penha", "Casado", "F");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1988-11-08", "Fernanda Lima", "Solteiro", "F");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1980-10-15", "Antonio Marcos", "Solteiro", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1974-08-02", "Marina da Silva", "Casado", "F");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1969-06-11", "Pedro Neto", "Casado", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1966-04-28", "Maria Raimunda", "Divorciado", "F");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1951-01-25", "Roberto Ferreira", "Casado", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1949-09-10", "Valdir Nogueira", "Solteiro", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1978-10-18", "Carlos Tavares", "Divorciado", "M");
+insert into funcionarios (data_nascimento, nome, estado_civil, sexo) values ("1970-12-22", "Valéria Gama", "Solteiro", "F");
