@@ -1,4 +1,4 @@
 gestec
 ======
 
-Projeto  LP2
+Projeto da disciplina de LP2 da Faculdade Unichristus
